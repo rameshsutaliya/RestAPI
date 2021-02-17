@@ -18,3 +18,10 @@ requirements.txt file is inside the Project folder.
     `python manage.py runserver`
 
 -   Check the http://127.0.0.1:8000/ in your browser.
+
+> This is how it looks after the first commit:
+## Home Todo List View
+> ![Todo List View](https://github.com/rameshsutaliya/RestAPI/blob/main/Python/Project/Project/todo/static/Images/TodoList%20View%20page.jpg)
+
+## Todo App Admin Panel
+> ![Todo App Admin view](https://github.com/rameshsutaliya/RestAPI/blob/main/Python/Project/Project/todo/static/Images/Todo%20App%20Site%20Adminstration.jpg)
